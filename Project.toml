@@ -1,0 +1,13 @@
+name = "ImplicitBias"
+uuid = "af78f4f7-c3b4-4cd6-9757-5e83d7e772a8"
+authors = ["Pierre Bréchet <brechet@mis.mpg.de> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
